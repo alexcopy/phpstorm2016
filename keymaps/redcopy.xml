@@ -2,6 +2,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt f10" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
@@ -58,6 +59,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="com.jetbrains.php.composer.addDependency.ComposerAddDependencyAction">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>

@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'lot'" />
+    <option name="defaultScopeName" value="Project 'lot'" />
+    <option name="SEARCH_SCOPE" value="Project 'lot'" />
     <option name="FILE_MASK" value="*.php" />
   </component>
 </application>

@@ -21,6 +21,9 @@
   <action id="Jdbc.OpenConsole">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="Refactorings.QuickListPopupAction">
